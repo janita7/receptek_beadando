@@ -8,3 +8,4 @@
   Szerepkörök:
   Használati eset diagramok:
   Folyamatok pontos menete:
+  
