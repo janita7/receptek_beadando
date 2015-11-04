@@ -2,16 +2,11 @@
   Megvalósítás: Szerveroldali technológiák segítségével
 
 ## I. Követelményanalízis
-
-  Funkcionális elvárások:
-  
-  Nem funkcionális követelmények:
-  
-  Szerepkörök:
-  
-  Használati eset diagramok:
-  
-  Folyamatok pontos menete:
+  - Funkcionális elvárások:
+  - Nem funkcionális követelmények:
+  - Szerepkörök:
+  - Használati eset diagramok:
+  - Folyamatok pontos menete:
 
 ## II. Tervezés
   1. Architektúra terv:
