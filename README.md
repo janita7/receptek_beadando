@@ -10,19 +10,28 @@
 
 ## II. Tervezés
   1. Architektúra terv:
+    * Komponensdiagram:
+    * Oldaltérkép:
+    * Végpontok:
   2. Felhasználóifelület-modell:
+    * Oldalvázlatok:
+    * Designterv:
   3. Osztálymodell:
+    * Adatmodell:
+    * Adatbázisterv:
+    * Állapotdiagram:
   4. Dinamikus működés:
+    * Szekvenciadiagram:
 
 ## III. Implementáció
   - Fejlesztői környezet bemutatása:
   - Könyvtárstruktúrában lévő mappák funkiójának bemutatása:
   
 ## IV. Tesztelés
-  1. Tesztelési környezet bemutatása:
-  2. Egységtesztek:
-  3. Funkcionális felületi tesztek:
-  4. Tesztesetek felsorolása:
+  - Tesztelési környezet bemutatása:
+  - Egységtesztek:
+  - Funkcionális felületi tesztek:
+  - Tesztesetek felsorolása:
   
 ## V. Felhasználói dokumentáció
   - A futtatáshoz ajánlott hardver-, szoftver konfiguráció:
