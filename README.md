@@ -12,3 +12,9 @@
   Használati eset diagramok:
   
   Folyamatok pontos menete:
+
+# II. Tervezés
+  1. Architektúra terv:
+  2. Felhasználóifelület-modell:
+  3. Osztálymodell:
+  4. Dinamikus működés:
