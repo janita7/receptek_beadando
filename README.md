@@ -4,8 +4,11 @@
 # I. Követelményanalízis
 
   Funkcionális elvárások:
-  Nem funkcionális követelmények:
-  Szerepkörök:
-  Használati eset diagramok:
-  Folyamatok pontos menete:
   
+  Nem funkcionális követelmények:
+  
+  Szerepkörök:
+  
+  Használati eset diagramok:
+  
+  Folyamatok pontos menete:
