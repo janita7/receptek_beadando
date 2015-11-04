@@ -15,9 +15,8 @@
   4. Dinamikus működés:
 
 ## III. Implementáció
-  Fejlesztői környezet bemutatása:
-  
-  Könyvtárstruktúrában lévő mappák funkiójának bemutatása:
+  - Fejlesztői környezet bemutatása:
+  - Könyvtárstruktúrában lévő mappák funkiójának bemutatása:
   
 ## IV. Tesztelés
   1. Tesztelési környezet bemutatása:
@@ -26,9 +25,7 @@
   4. Tesztesetek felsorolása:
   
 ## V. Felhasználói dokumentáció
-  A futtatáshoz ajánlott hardver-, szoftver konfiguráció:
-
-  Telepítés lépései:
-  
-  A program használata:
+  - A futtatáshoz ajánlott hardver-, szoftver konfiguráció:
+  - Telepítés lépései:
+  - A program használata:
   
