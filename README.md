@@ -36,6 +36,9 @@
         - GET /logout: kilépés
   2. Felhasználóifelület-modell:
     * Oldalvázlatok:
+        
+      ![uj_recept](https://cloud.githubusercontent.com/assets/14230720/11021511/701e471a-8643-11e5-9e9b-2fb3175bfde9.jpg)
+      
     * Designterv:
   3. Osztálymodell:
     * Adatmodell:
