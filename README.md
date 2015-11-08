@@ -48,6 +48,9 @@
       ![adatmodell](https://cloud.githubusercontent.com/assets/14230720/11021549/dd661a90-8644-11e5-9e4b-d94047578bae.png)
 
     * Adatbázisterv:
+    
+      ![adatbterv](https://cloud.githubusercontent.com/assets/14230720/11021559/343a4328-8645-11e5-9ea8-bf73eb9a36fd.png)
+      
     * Állapotdiagram:
   4. Dinamikus működés:
     * Szekvenciadiagram:
