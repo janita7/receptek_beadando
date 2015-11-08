@@ -64,6 +64,10 @@
       - node_modules: telepített modulok helye
       - public: stíluskönyvtárak helye
       - test: felhasználói és "zombi" tesztek definiálása. Teszteljük, hogy lehet-e létrehozni, keresni, módosítani egy adott         felhasználót, és hibát dob-e, ha rossz attribútumokat adunk meg, és igazzal vagy hamissal tér-e vissza a jó/rossz            jelszó megadása esetén. A zombi tesztnél egy felhasználói folyamaton megyünk végig: rálépünk a főoldalra,                    bejelentkezünk, rálépünk az 'új recept felvitelé'-re, ellenőrizzük, hogy jók-e a megadott űrlap adatok, és hogy              látjuk-e a receptlista oldalon az új receptünket.
+      - views: a főoldal kinézetét és elrendezését állítjuk be.
+          - login: bejelentkezési és regisztrációs felület kinézete és elrendezése.
+          - recipes: receptlista és új recept felviteléhez szükséges űrlap oldal kinézete és elrendezése.
+      - server.js: szerverfunkciók, kérések, válaszok implementálása.
   
 ## IV. Tesztelés
   - Tesztelési környezet bemutatása:
