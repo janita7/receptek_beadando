@@ -40,6 +40,9 @@
       ![uj_recept](https://cloud.githubusercontent.com/assets/14230720/11021511/701e471a-8643-11e5-9e9b-2fb3175bfde9.jpg)
       
     * Designterv:
+      
+      ![designterv](https://cloud.githubusercontent.com/assets/14230720/11021527/f43e914e-8643-11e5-8009-264e80ebf2e0.png)
+
   3. Osztálymodell:
     * Adatmodell:
     * Adatbázisterv:
