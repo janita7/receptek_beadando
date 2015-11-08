@@ -24,7 +24,17 @@
   1. Architektúra terv:
     * Komponensdiagram:
     * Oldaltérkép:
+        Publikus:
+        - Főoldal, Bejelentkezés, Regisztráció
+        Felhasználói:
+        - Főoldal, Bejelentkezés, Kilépés, Receptlista, Új receptek felvitele
     * Végpontok:
+        - GET /: főoldal
+        - GET /login: bejelentkezés
+        - GET /login/signup: regisztráció
+        - GET /recipes/list: receptlista
+        - GET /recipes/new: új recept felvitele
+        - GET /logout: kilépés
   2. Felhasználóifelület-modell:
     * Oldalvázlatok:
     * Designterv:
