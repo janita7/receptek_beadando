@@ -71,9 +71,18 @@
   
 ## IV. Tesztelés
   - Tesztelési környezet bemutatása:
+  
+      Mocha, Chai tesztkörnyezet az adatmodell tesztelésekhez, Zombie.js a funkcionális tesztekhez.
+
   - Egységtesztek:
+  - 
+      usermodel.test.js: A felhasználói modell tesztelése. Teszteljük, hogy lehet-e létrehozni, keresni, módosítani egy adott         felhasználót, és hibát dob-e, ha rossz attribútumokat adunk meg, és igazzal vagy hamissal tér-e vissza a jó/rossz            jelszó megadása esetén.
+
   - Funkcionális felületi tesztek:
-  - Tesztesetek felsorolása:
+    
+      zombie.test.js: Egy felhasználói interakció tesztelése. Főoldalra való navigálás, onnan a bejelentkezési oldalra való        lépés. Annak ellenőrzése, hogy sikerült-e belépni a megfelelő felhasználói névvel és jelszóval. Az új recept felvitele       oldalra navigálás, a form elemek ellenőrzése, hibadobás rossz/kihagyott elemek esetén. A mentés gomb megnyomása után a        receptlista oldalra való visszanavigálás.
+
+  - Tesztesetek felsorolása: egységteszt a felhasználók adatmodellre, funkcionális teszt egy felhasználói folyamatra.
   
 ## V. Felhasználói dokumentáció
   - A futtatáshoz ajánlott hardver-, szoftver konfiguráció:
