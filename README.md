@@ -21,7 +21,6 @@
 
 ## II. Tervezés
   1. Architektúra terv:
-    * Komponensdiagram:
     * Oldaltérkép:
         - Publikus: Főoldal, Bejelentkezés, Regisztráció
         - Felhasználói: Főoldal, Bejelentkezés, Kilépés, Receptlista, Új receptek felvitele
@@ -33,6 +32,7 @@
         - GET /recipes/list: receptlista
         - GET /recipes/new: új recept felvitele
         - GET /logout: kilépés
+        
   2. Felhasználóifelület-modell:
     * Oldalvázlatok:
         
@@ -50,8 +50,7 @@
     * Adatbázisterv:
     
       ![adatbterv](https://cloud.githubusercontent.com/assets/14230720/11021559/343a4328-8645-11e5-9ea8-bf73eb9a36fd.png)
-      
-    * Állapotdiagram:
+    
   4. Dinamikus működés:
     * Szekvenciadiagram:
 
