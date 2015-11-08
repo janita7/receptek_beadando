@@ -44,6 +44,9 @@
 
   3. Osztálymodell:
     * Adatmodell:
+  
+      ![adatmodell](https://cloud.githubusercontent.com/assets/14230720/11021549/dd661a90-8644-11e5-9e4b-d94047578bae.png)
+
     * Adatbázisterv:
     * Állapotdiagram:
   4. Dinamikus működés:
