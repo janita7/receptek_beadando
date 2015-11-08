@@ -85,7 +85,13 @@
   - Tesztesetek felsorolása: egységteszt a felhasználók adatmodellre, funkcionális teszt egy felhasználói folyamatra.
   
 ## V. Felhasználói dokumentáció
-  - A futtatáshoz ajánlott hardver-, szoftver konfiguráció:
-  - Telepítés lépései:
   - A program használata:
+  
+      Cloud9 keretrendszeren belül: Indítsuk el a 'Run' gombbal az applikációnkat, ekkor a konzol felületen megjelennek az         információk, többek között az, hogy milyen címen érhetjük el. Arra kattintva nyithatjuk meg az app főoldalát.
+
+      A jobb felső sarokban a Bejelentkezés gombra kattintva adhatjuk meg a felhasználói nevünket és jelszavunkat a                belépéshez, vagy ha még nincs fiókunk, akkor a bejelentkezési oldal alján található Regisztráció gombra kattintva            tehetjük ezt meg.
+      
+      Ha beléptünk, rögtön a receptlista oldalra érkezünk, ahol áttekinthetjük eddigi feltöltéseinket. Az Új recept felvitele       gombra való kattintással egy űrlapon keresztül adhatjuk meg legújabb receptünk címét és leírását. Ha kitöltöttük a           kötelező mezőket, a mentés vagy mégse gombbal elmenthetjük vagy elvethetjük azt, amit eddig beírtunk.
+      
+      Ha nincs több teendőnk, akkor a jobb felső sarokban lévő Kilépés gombbal újra a főoldalra navigálhatunk.
   
