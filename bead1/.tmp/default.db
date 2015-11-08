@@ -1,0 +1,185 @@
+{
+  "data": {
+    "error": [
+      {
+        "status": "new",
+        "location": "PC06",
+        "description": "Para van a szabad strandon",
+        "date": "2015-11-05T16:40:10.744Z",
+        "createdAt": "2015-11-05T16:40:10.745Z",
+        "updatedAt": "2015-11-05T16:40:10.745Z",
+        "id": 1
+      }
+    ],
+    "recipe": [],
+    "user": [
+      {
+        "surname": "K",
+        "forename": "K",
+        "neptun": "SHSVOS",
+        "password": "almafa",
+        "avatar": "",
+        "role": "operator",
+        "createdAt": "2015-10-16T07:12:13.282Z",
+        "updatedAt": "2015-10-16T07:12:13.282Z",
+        "id": 1
+      },
+      {
+        "surname": "K",
+        "forename": "S",
+        "neptun": "AAAA",
+        "password": "$2a$10$gNRMti2HhU01HMDWqwsJEOaQYF8pY63KxF3qRkfS7i0OuvIoOrQfq",
+        "avatar": "",
+        "role": "riporter",
+        "createdAt": "2015-10-16T07:35:52.625Z",
+        "updatedAt": "2015-10-16T07:35:52.625Z",
+        "id": 2
+      },
+      {
+        "surname": "k",
+        "forename": "k",
+        "neptun": "k",
+        "password": "$2a$10$0xivpgSpGiQmMlXXiCdK6.JHUDBZy.3QD2LqTYYqSCuJ64rAs5WCy",
+        "avatar": "",
+        "role": "riporter",
+        "createdAt": "2015-11-05T16:39:44.223Z",
+        "updatedAt": "2015-11-05T16:39:44.223Z",
+        "id": 3
+      },
+      {
+        "surname": "juhász",
+        "forename": "anita",
+        "neptun": "g2eemo",
+        "password": "$2a$10$zyRBH2.Gpk5h6lUybJKX1eueLFfmDc3hCKdVe5gtWi3RAWo3g2aru",
+        "avatar": "",
+        "role": "riporter",
+        "createdAt": "2015-11-07T13:17:58.721Z",
+        "updatedAt": "2015-11-07T13:17:58.721Z",
+        "id": 4
+      },
+      {
+        "surname": "asd",
+        "forename": "asd",
+        "username": "janita7",
+        "password": "$2a$10$/0EaBunsknKY1yEeIezZgeD4vAAhXGDLJ0yuuH./PRrdD5f1oP4lm",
+        "createdAt": "2015-11-07T14:04:39.790Z",
+        "updatedAt": "2015-11-07T14:04:39.790Z",
+        "id": 5
+      }
+    ]
+  },
+  "schema": {
+    "error": {
+      "date": {
+        "type": "datetime"
+      },
+      "status": {
+        "type": "string",
+        "enum": [
+          "new",
+          "assigned",
+          "success",
+          "rejected",
+          "pending"
+        ]
+      },
+      "location": {
+        "type": "string"
+      },
+      "description": {
+        "type": "string"
+      },
+      "user": {
+        "type": "integer",
+        "model": "user",
+        "foreignKey": true,
+        "alias": "user"
+      },
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "recipe": {
+      "date": {
+        "type": "datetime"
+      },
+      "title": {
+        "type": "string"
+      },
+      "description": {
+        "type": "string"
+      },
+      "user": {
+        "type": "integer",
+        "model": "user",
+        "foreignKey": true,
+        "alias": "user"
+      },
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "user": {
+      "username": {
+        "type": "string",
+        "unique": true
+      },
+      "password": {
+        "type": "string"
+      },
+      "surname": {
+        "type": "string"
+      },
+      "forename": {
+        "type": "string"
+      },
+      "role": {
+        "type": "string",
+        "enum": [
+          "standard",
+          "operator"
+        ],
+        "defaultsTo": "standard"
+      },
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    }
+  },
+  "counters": {
+    "error": {
+      "id": 1
+    },
+    "user": {
+      "id": 5
+    },
+    "recipe": {}
+  }
+}
