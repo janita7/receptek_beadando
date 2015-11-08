@@ -5,7 +5,6 @@
   - Funkcionális elvárások:
       Felhasználóként szeretném elmenteni a receptjeimet, és később visszanézni őket. (Receptek felvitele és listázása)
   - Nem funkcionális követelmények:
-      
       Felhasználóbarát kinézet, egyszerű és egyértelmű navigáció.
       Biztonságos működés - jelszóval védett tartalom.
   - Szerepkörök:
