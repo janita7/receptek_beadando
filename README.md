@@ -24,8 +24,8 @@
   1. Architektúra terv:
     * Komponensdiagram:
     * Oldaltérkép:
-        -Publikus: Főoldal, Bejelentkezés, Regisztráció
-        -Felhasználói: Főoldal, Bejelentkezés, Kilépés, Receptlista, Új receptek felvitele
+        - Publikus: Főoldal, Bejelentkezés, Regisztráció
+        - Felhasználói: Főoldal, Bejelentkezés, Kilépés, Receptlista, Új receptek felvitele
 
     * Végpontok:
         - GET /: főoldal
