@@ -3,24 +3,17 @@
 
 ## I. Követelményanalízis
   - Funkcionális elvárások:
-  - 
       Felhasználóként szeretném elmenteni a receptjeimet, és később visszanézni őket. (Receptek felvitele és listázása)
-
   - Nem funkcionális követelmények:
-  - 
       Felhasználóbarát kinézet, egyszerű és egyértelmű navigáció.
 
       Biztonságos működés - jelszóval védett tartalom.
-      
   - Szerepkörök:
-  - 
       Vendég: Csak a főoldal érhető el számára, lehetősége van regisztrálni.
 
       Felhasználó: Bejelentkezhet a felhasználónevével és jelszavával, ezután láthatóvá válnak a feltöltött receptjei.
-      
   - Használati eset diagramok:
-      
-      
+     ![haszn_eset](https://cloud.githubusercontent.com/assets/14230720/11021275/576fcb1e-863c-11e5-9733-21bfd4ca0aa6.png)
   - Folyamatok pontos menete:
 
 ## II. Tervezés
