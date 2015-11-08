@@ -53,12 +53,17 @@
     
       ![adatbterv](https://cloud.githubusercontent.com/assets/14230720/11021559/343a4328-8645-11e5-9ea8-bf73eb9a36fd.png)
     
-  4. Dinamikus működés:
-    * Szekvenciadiagram:
-
 ## III. Implementáció
   - Fejlesztői környezet bemutatása:
+      - Fejlesztői környezet gyanánt a Cloud9 webes IDE-t használjuk. Ez a c9.io weboldalról érhető el, rendelkeznünk kell           hozzá egy github felhasználói fiókkal. Belépés után egy demo projekt rendelkezésünkre is áll, amin keresztül                 megismerkedhetünk a felülettel.
+        
   - Könyvtárstruktúrában lévő mappák funkiójának bemutatása:
+      - config: waterline tároló-és keresőmotor konfigurációja.
+      - controllers: főoldalon, bejelentkező oldalon és a receptlista oldalon történő navigációk; interakciók definiálása.
+      - models: felhasználó és recept modellek definiálása.
+      - node_modules: telepített modulok helye
+      - public: stíluskönyvtárak helye
+      - test: felhasználói és "zombi" tesztek definiálása. Teszteljük, hogy lehet-e létrehozni, keresni, módosítani egy adott         felhasználót, és hibát dob-e, ha rossz attribútumokat adunk meg, és igazzal vagy hamissal tér-e vissza a jó/rossz            jelszó megadása esetén. A zombi tesztnél egy felhasználói folyamaton megyünk végig: rálépünk a főoldalra,                    bejelentkezünk, rálépünk az 'új recept felvitelé'-re, ellenőrizzük, hogy jók-e a megadott űrlap adatok, és hogy              látjuk-e a receptlista oldalon az új receptünket.
   
 ## IV. Tesztelés
   - Tesztelési környezet bemutatása:
