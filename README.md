@@ -15,8 +15,7 @@
   - Használati eset diagram:
       ![haszn_eset](https://cloud.githubusercontent.com/assets/14230720/11021275/576fcb1e-863c-11e5-9733-21bfd4ca0aa6.png)
 
-  - Folyamat pontos menete:
-      cim
+  - Receptfelvételi folyamat pontos menete:
       
       ![act_diagram](https://cloud.githubusercontent.com/assets/14230720/11021339/b27b0eb8-863e-11e5-95ff-02f2550565f1.png)
 
@@ -34,6 +33,13 @@
         - GET /recipes/list: receptlista
         - GET /recipes/new: új recept felvitele
         - GET /logout: kilépés
+        - GET /recipes/edit:id: {id} azonosítójú recept szerkesztése
+        
+        - POST /login: bejelentkezési adatok elküldése
+        - POST /login/signup: regisztrációs adatok elküldése
+        
+        - POST /recipes/new: új recept felvitele, adatok elküldése
+        - POST /recipes/edit:id: {id} azonosítójú recept szerkesztésének elmentése
         
   2. Felhasználóifelület-modell:
     * Oldalvázlatok:
