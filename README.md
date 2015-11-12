@@ -65,6 +65,10 @@
     * Adatbázisterv:
     
       ![adatbterv](https://cloud.githubusercontent.com/assets/14230720/11125318/96f60f0c-8969-11e5-9c28-edd280099359.png)
+      
+    * Állapotdiagram:
+    
+      
     
 ## III. Implementáció
   - Fejlesztői környezet bemutatása:
