@@ -69,6 +69,9 @@
     * Recept állapotdiagramja:
     
       ![alldiag](https://cloud.githubusercontent.com/assets/14230720/11133015/97e5f808-8993-11e5-8fed-3eb3167d4113.png)
+      
+  4. Dinamikus működés:
+    * Szekvencia diagram:
     
 ## III. Implementáció
   - Fejlesztői környezet bemutatása:
