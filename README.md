@@ -55,7 +55,7 @@
   3. Osztálymodell:
     * Adatmodell:
   
-      ![adatmodell](https://cloud.githubusercontent.com/assets/14230720/11021549/dd661a90-8644-11e5-9e4b-d94047578bae.png)
+      ![adatmodell](https://cloud.githubusercontent.com/assets/14230720/11125257/3d39dfca-8969-11e5-8a5f-49c42f442915.png)
 
     * Adatbázisterv:
     
