@@ -24,7 +24,7 @@
   1. Architektúra terv:
     * Oldaltérkép:
         - Publikus: Főoldal, Bejelentkezés, Regisztráció
-        - Felhasználói: Főoldal, Bejelentkezés, Kilépés, Receptlista, Új receptek felvitele
+        - Felhasználói: Kilépés, Receptlista, Új receptek felvitele
 
     * Végpontok:
         - GET /: főoldal
