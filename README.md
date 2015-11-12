@@ -38,13 +38,13 @@
         - GET /recipes/list: receptlista
         - GET /recipes/new: új recept felvitele
         - GET /logout: kilépés
-        - GET /recipes/edit:id : {id} azonosítójú recept szerkesztése
+        - GET /recipes/edit/:id : {id} azonosítójú recept szerkesztése
         
         - POST /login: bejelentkezési adatok elküldése
         - POST /login/signup: regisztrációs adatok elküldése
         
         - POST /recipes/new: új recept felvitele, adatok elküldése
-        - POST /recipes/edit:id : {id} azonosítójú recept szerkesztésének elmentése
+        - POST /recipes/edit/:id : {id} azonosítójú recept szerkesztésének elmentése
         
   2. Felhasználóifelület-modell:
     * Oldalvázlatok:
