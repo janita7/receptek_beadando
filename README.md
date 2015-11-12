@@ -68,7 +68,7 @@
       
     * Állapotdiagram:
     
-      
+      ![alldiag](https://cloud.githubusercontent.com/assets/14230720/11133015/97e5f808-8993-11e5-8fed-3eb3167d4113.png)
     
 ## III. Implementáció
   - Fejlesztői környezet bemutatása:
