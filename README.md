@@ -66,7 +66,7 @@
     
       ![adatbterv](https://cloud.githubusercontent.com/assets/14230720/11125318/96f60f0c-8969-11e5-9c28-edd280099359.png)
       
-    * Állapotdiagram:
+    * Recept állapotdiagramja:
     
       ![alldiag](https://cloud.githubusercontent.com/assets/14230720/11133015/97e5f808-8993-11e5-8fed-3eb3167d4113.png)
     
