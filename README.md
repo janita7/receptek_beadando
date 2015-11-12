@@ -22,6 +22,9 @@
 
 ## II. Tervezés
   1. Architektúra terv:
+    * Komponens diagram:
+    
+
     * Oldaltérkép:
         - Publikus: Főoldal, Bejelentkezés, Regisztráció
         - Felhasználói: Kilépés, Receptlista, Új receptek felvitele
