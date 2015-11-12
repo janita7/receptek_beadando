@@ -24,6 +24,8 @@
   1. Architektúra terv:
     * Komponens diagram:
     
+      ![komp_diagram](https://cloud.githubusercontent.com/assets/14230720/11126372/e60effb8-896e-11e5-8a19-b9cd043be2be.png)
+
 
     * Oldaltérkép:
         - Publikus: Főoldal, Bejelentkezés, Regisztráció
