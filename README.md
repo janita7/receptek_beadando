@@ -91,7 +91,6 @@
       - views: a főoldal kinézetét és elrendezését állítjuk be.
           - login: bejelentkezési és regisztrációs felület kinézete és elrendezése.
           - recipes: receptlista és új recept felviteléhez szükséges űrlap oldal kinézete és elrendezése.
-      - server.js: szerverfunkciók, kérések, válaszok implementálása.
   
 ## IV. Tesztelés
   - Tesztelési környezet bemutatása:
