@@ -87,7 +87,7 @@
       - models: felhasználó és recept modellek definiálása.
       - node_modules: telepített modulok helye
       - public: stíluskönyvtárak helye
-      - test: felhasználói és "zombi" tesztek definiálása. Teszteljük, hogy lehet-e létrehozni, keresni, módosítani egy adott         felhasználót, és hibát dob-e, ha rossz attribútumokat adunk meg, és igazzal vagy hamissal tér-e vissza a jó/rossz            jelszó megadása esetén. A zombi tesztnél egy felhasználói folyamaton megyünk végig: rálépünk a főoldalra,                    bejelentkezünk, rálépünk az 'új recept felvitelé'-re, ellenőrizzük, hogy jók-e a megadott űrlap adatok, és hogy              látjuk-e a receptlista oldalon az új receptünket.
+      - test: unit és funkcionális tesztek definiálása. Teszteljük, hogy lehet-e létrehozni, keresni, módosítani egy adott         felhasználót, és hibát dob-e, ha rossz attribútumokat adunk meg, és igazzal vagy hamissal tér-e vissza a jó/rossz            jelszó megadása esetén. A zombi tesztnél egy felhasználói folyamaton megyünk végig: rálépünk a főoldalra,                    bejelentkezünk, rálépünk az 'új recept felvitelé'-re, ellenőrizzük, hogy jók-e a megadott űrlap adatok, és hogy              látjuk-e a receptlista oldalon az új receptünket.
       - views: a főoldal kinézetét és elrendezését állítjuk be.
           - login: bejelentkezési és regisztrációs felület kinézete és elrendezése.
           - recipes: receptlista és új recept felviteléhez szükséges űrlap oldal kinézete és elrendezése.
@@ -116,5 +116,5 @@
       
       Ha beléptünk, rögtön a receptlista oldalra érkezünk, ahol áttekinthetjük eddigi feltöltéseinket. Az Új recept felvitele       gombra való kattintással egy űrlapon keresztül adhatjuk meg legújabb receptünk címét és leírását. Ha kitöltöttük a           kötelező mezőket, a mentés vagy mégse gombbal elmenthetjük vagy elvethetjük azt, amit eddig beírtunk.
       
-      Ha nincs több teendőnk, akkor a jobb felső sarokban lévő Kilépés gombbal újra a főoldalra navigálhatunk.
+      Ha befejeztük a teendőket, akkor a jobb felső sarokban lévő Kilépés gombbal újra a főoldalra navigálhatunk.
   
